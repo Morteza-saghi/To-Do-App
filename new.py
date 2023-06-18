@@ -28,9 +28,13 @@ a.addnote("this is a another text just to test thigs")
 a.addnote("hello from the other side")
 a.addnote("yolo")
 a.delNote()
-# print(a.allnotes)
 
 
-# alist = [1, 2, 3]
-# for i in alist:
-#     print(f"{i}\n")
+# all the func i have now works just fine
+# SO to test the branching and other things in git
+# lets make a new branch to develop rest of the project
+
+
+
+
+#this is where i wnat to add the markDone function
