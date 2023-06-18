@@ -28,9 +28,4 @@ a.addnote("this is a another text just to test thigs")
 a.addnote("hello from the other side")
 a.addnote("yolo")
 a.delNote()
-# print(a.allnotes)
 
-
-# alist = [1, 2, 3]
-# for i in alist:
-#     print(f"{i}\n")
