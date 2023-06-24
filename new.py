@@ -24,15 +24,6 @@ class note:
 
 
 a = note()
-<<<<<<< HEAD
-a.addnote("this is a test")
-a.addnote("hello")
-a.addnote("this is a another text just to test thigs")
-a.addnote("hello from the other side")
-a.addnote("yolo")
-a.delNote()
-
-=======
 a.addnote("get the milk")
 a.addnote("write the new project Code")
 a.addnote("call Mom")
@@ -40,4 +31,3 @@ a.addnote("go to gym")
 a.markAsDone()
 a.markAsDone()
 a.markAsDone()
->>>>>>> adding_MarkDone
